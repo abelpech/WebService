@@ -5,9 +5,9 @@ VisualStudioVersion = 15.0.28307.902
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacturacionWebService", "FacturacionWebService\FacturacionWebService.csproj", "{A43ACE1E-E311-47C3-A691-1D257EA6D798}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacturacionLibrary", "..\..\..\Documents\CESUN 2020\Projects\FacturacionLibrary\FacturacionLibrary\FacturacionLibrary.csproj", "{3F90AD1A-83E2-44F4-9CD4-C059EBAF8CD8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacturacionConsumer", "..\FacturacionConsumer\FacturacionConsumer.csproj", "{1B9ADBF7-63C2-4A9A-920D-E2F35EA4C6CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacturacionConsumer", "..\..\..\Documents\CESUN 2020\Projects\FacturacionConsumer\FacturacionConsumer.csproj", "{1B9ADBF7-63C2-4A9A-920D-E2F35EA4C6CF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacturacionLibrary", "..\FacturacionLibrary\FacturacionLibrary\FacturacionLibrary.csproj", "{3F90AD1A-83E2-44F4-9CD4-C059EBAF8CD8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,14 +19,14 @@ Global
 		{A43ACE1E-E311-47C3-A691-1D257EA6D798}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A43ACE1E-E311-47C3-A691-1D257EA6D798}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A43ACE1E-E311-47C3-A691-1D257EA6D798}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3F90AD1A-83E2-44F4-9CD4-C059EBAF8CD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3F90AD1A-83E2-44F4-9CD4-C059EBAF8CD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3F90AD1A-83E2-44F4-9CD4-C059EBAF8CD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3F90AD1A-83E2-44F4-9CD4-C059EBAF8CD8}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1B9ADBF7-63C2-4A9A-920D-E2F35EA4C6CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1B9ADBF7-63C2-4A9A-920D-E2F35EA4C6CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B9ADBF7-63C2-4A9A-920D-E2F35EA4C6CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B9ADBF7-63C2-4A9A-920D-E2F35EA4C6CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F90AD1A-83E2-44F4-9CD4-C059EBAF8CD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F90AD1A-83E2-44F4-9CD4-C059EBAF8CD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F90AD1A-83E2-44F4-9CD4-C059EBAF8CD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F90AD1A-83E2-44F4-9CD4-C059EBAF8CD8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
